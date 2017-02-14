@@ -1,3 +1,3 @@
 # prueba
 
-Aprendiendo a usar _GithHub_
+Aprendiendo a usar _GitHub_
